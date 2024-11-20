@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @bobby814
 
-## 👀 I’m interested in ... web development, data science, open-source projects and machine learning
+## 👀 I’m interested in ... web development, data science, open-source projects and UI UX designer 
 
 ## 🌱 I’m currently learning ... React, machine learning
 
@@ -10,4 +10,4 @@
 
 
 
-## ⚡ Fun fact:I love lifting weights and have climbed my downfall all by myself !
+## ⚡ Fun fact:I love lifting weights and  self learned techie !
